@@ -1,6 +1,19 @@
-# mall-vue
+# 简易商城SSR版
 
-> mall
+基于[mall-vue](https://github.com/mjyplusone/mall-vue)项目，使用Nuxt.js框架改为服务端渲染版本
+
+[项目预览](http://buybuybuy.lihulab.net/)
+
+### 技术栈
+- Vue2
+- Vuex
+- Vue-router
+- Nuxt
+- Stylus
+- webpack
+- Node.js
+- Koa
+- MongoDB
 
 ## Build Setup
 
@@ -8,15 +21,8 @@
 # install dependencies
 $ npm install
 
-# serve with hot reload at localhost:3000
+# serve with hot reload at localhost:3010
 $ npm run dev
-
-# build for production and launch server
-$ npm run build
-$ npm start
-
-# generate static project
-$ npm run generate
 ```
 
 For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
