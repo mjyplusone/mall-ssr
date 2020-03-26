@@ -4,7 +4,7 @@
 
 [项目预览](http://buybuybuy.lihulab.net/)
 
-### 技术栈
+## 技术栈
 - Vue2
 - Vuex
 - Vue-router
