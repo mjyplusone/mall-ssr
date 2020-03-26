@@ -20,7 +20,7 @@
     "koa-cors": "0.0.16",
     "koa-json": "^2.0.2",
     "koa-router": "^7.4.0",
-    "mongoose": "^5.4.17",
+    "mongoose": "^5.7.5",
     "nuxt": "^2.4.0",
     "vue": "^2.6.8",
     "vue-infinite-scroll": "^2.0.2",
