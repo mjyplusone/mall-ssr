@@ -21,7 +21,7 @@
     "koa-json": "^2.0.2",
     "koa-router": "^7.4.0",
     "mongoose": "^5.4.17",
-    "nuxt": "^2.4.0",
+    "nuxt": "^2.15.8",
     "vue": "^2.6.8",
     "vue-infinite-scroll": "^2.0.2",
     "vue-lazyload": "^1.2.6",
